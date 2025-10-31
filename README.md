@@ -10,11 +10,6 @@ A professional, modern school management system built with Next.js 14, TypeScrip
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: Radix UI
-- **Database**: Supabase
-- **Forms**: React Hook Form + Zod
-- **Charts**: Recharts
-- **Icons**: Lucide React
-
 ## Prerequisites
 
 Before running this project, ensure you have:
